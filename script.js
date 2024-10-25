@@ -6,4 +6,3 @@ document.getElementById('delete').addEventListener('click', () => {
 
 	document.getElementById(color).remove();
 })
-
